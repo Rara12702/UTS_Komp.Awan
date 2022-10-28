@@ -1,0 +1,15 @@
+PELATIHAN BACKEND
+
+Cara menjalankan program di laptop anda :
+1. Install xampp terlebih dahulu kemudian jalankan mysql dan apache.
+2. Extract folder ini
+3. Copy folder yang telah di extract ke dalam folder xampp/htdocs/
+4. Buat database baru di phpmyadmin, dengan nama databasenya ppmi_crud
+5. Import database, file database ada di dalam folder db.
+6. Jalankan program di browser anda, dengan cara ketik localhost/ppmi-crud lalu tekan tombol enter.
+7. Selamat menikmati
+
+Silahkan pelajari cara kerja program, dan pelajari serta fahamilah codingannya.
+lalu coba praktekkan, buat ulang seperti itu.
+
+Terima kasih,
